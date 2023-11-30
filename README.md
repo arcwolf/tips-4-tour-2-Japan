@@ -56,7 +56,7 @@ https://maps.app.goo.gl/zMMiqki1ARnUNP519?g_st=ic
 
 ## Section 2. Kyoto
 ### 1.1 지도 및 교통
-![Google Maps for Osaka](/imgs/map_osaka.png)
+![Google Maps for Osaka](/imgs/map_kyoto.png)
 
 ### 1.2 관광지
 * 22
