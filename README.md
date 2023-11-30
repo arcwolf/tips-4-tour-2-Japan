@@ -55,13 +55,13 @@ https://maps.app.goo.gl/zMMiqki1ARnUNP519?g_st=ic
 
 
 ## Section 2. Kyoto
-### 1.1 지도 및 교통
-![Google Maps for Osaka](/imgs/map_kyoto.png)
+### 2.1 지도 및 교통
+![Google Maps for Kyoto](/imgs/map_kyoto.png)
 
-### 1.2 관광지
+### 2.2 관광지
 * 22
 
-### 1.3 음식점
+### 2.3 음식점
 1. 돈카츠 (시죠 카라스마, 시죠 카와라마치 근처)
 Katsukura Shijo Teramachi
 https://maps.app.goo.gl/716xL9XDD6s76tsF9?g_st=ic
@@ -167,3 +167,8 @@ https://maps.app.goo.gl/24eXanCf4RU3H1mR8?g_st=ic
 16. 교토에 이자카야 추가 아까 생각이 안나서 ㅎㅎ
 Kokoraya Karasuma
 https://maps.app.goo.gl/17z4Byghdqd3cZz88?g_st=ic
+
+
+### 2.4 이자카야 및 술집
+1. 
+1.  
