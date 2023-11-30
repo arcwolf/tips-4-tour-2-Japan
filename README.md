@@ -3,6 +3,7 @@ A collection of Japan tour information such as tour spots or local dinings, auth
 
 ## Section 1. Osaka
 ### 지도 및 교통
+![Google Maps for Osaka](/imgs/map_osaka.png)
 
 ### 관광지
 * 22
